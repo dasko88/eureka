@@ -10,5 +10,8 @@ client-eav-replica/client-eav-replica.iml
 client-acl/target/*
 client-acl/client-acl.iml
 
+client-web/target/*
+client-web/client-web.iml
+
 .idea/
 *.DS_Store

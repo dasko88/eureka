@@ -1,4 +1,4 @@
-package it.ts.dotcom.example.client.acl;
+package it.ts.dotcom.example.client.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
