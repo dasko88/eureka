@@ -1,0 +1,11 @@
+target/*
+.project
+*/nb-configuration.xml
+*/nbactions.xml
+nbactions.xml
+/target/
+.settings/
+
+*.iml
+.idea/
+*.DS_Store
