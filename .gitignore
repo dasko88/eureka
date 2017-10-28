@@ -1,5 +1,11 @@
 service-registry/target/*
+service-registry/service-registry.iml
 
-*.iml
+client-eav/target/*
+client-eav/client-eav.iml
+
+client-acl/target/*
+client-acl/client-acl.iml
+
 .idea/
 *.DS_Store
