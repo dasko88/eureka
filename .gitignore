@@ -4,6 +4,9 @@ service-registry/service-registry.iml
 client-eav/target/*
 client-eav/client-eav.iml
 
+client-eav-replica/target/*
+client-eav-replica/client-eav-replica.iml
+
 client-acl/target/*
 client-acl/client-acl.iml
 

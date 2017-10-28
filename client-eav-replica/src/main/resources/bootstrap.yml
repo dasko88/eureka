@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: client-eav #identificativo del service. La registrazione presso Eureka viene fatta con questo
