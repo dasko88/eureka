@@ -1,0 +1,9 @@
+server:
+  port: ${PORT:8761} #porta di default per il service registry
+
+eureka:
+  client:
+    registerWithEureka: false #questa applicazione è il service registry quindi non gli serve registrarsi ad altri servizi
+    fetchRegistry: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0
