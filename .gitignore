@@ -1,10 +1,4 @@
-target/*
-.project
-*/nb-configuration.xml
-*/nbactions.xml
-nbactions.xml
-/target/
-.settings/
+service-registry/target/*
 
 *.iml
 .idea/
